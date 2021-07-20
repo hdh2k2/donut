@@ -1,0 +1,11 @@
+﻿  DONUT.cpp
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(61,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(61,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(88,42): warning C4305: '+=': truncation from 'double' to 'float'
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(89,13): warning C4305: '+=': truncation from 'double' to 'float'
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(92,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(93,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(94,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(98,53): warning C4305: '+=': truncation from 'double' to 'float'
+D:\STUDY\MINE\DONUT\DONUT\DONUT.cpp(98,66): warning C4305: '+=': truncation from 'double' to 'float'
+  DONUT.vcxproj -> D:\STUDY\MINE\DONUT\Debug\DONUT.exe
